@@ -1,6 +1,4 @@
-<div align="center">
-<img width="500px" height = "500px" src="https://lh3.googleusercontent.com/hJMbRMkCOs-TK_fDbOiZi9CKHDAP3X8aiajRAEcrus1vHpv3IOCHouIxyn5nZagKMhF4wHZEeEYZg_lZnlvW2S2M7MMLRd9Rb0Vdeb_1VeLsVLfKgn8MoqWvtU3HTqyvvM2WLrUdu1tdS-ON-xpq8C95vu1gl4MuEeDYBK3NDkErQ6DU6EcWh2JySRi3Jqs0nOhmf2ihb6Z1rKmdytryOX-gDt2K-d4ZuK7vh6pppq3URbtTk3oNyW7_PuuztNObfleaVaBvksULkyisxI3QlFXLu6hprFEV3LkJIIf2-DoQzzgtMoBIzDIL42YOIdVENNjTpjCyITqMlEeqp9rkczV01v_e7YBOQtB1HKedpB05Euh-T9ThKIyuoglRlWhcHn3SNJ3VZ_uV9fS_l_3ZSNwDnqO63lVqDj2XRZ8fu3yWBVd7NHuJm0HTW8nt789E-cT4ufe2tDaBPTsEpyZzxZSSh8D-592uFbGuPt8eloQw99nIFX_IeA2S8mIuf2vgUpHTt8lNWDBrrV3rrknS3J0GriLxbwN4SOQeEPrrtlx7pid7EPATJaDzTgErNEPQ1pfha57tXKajhWri-O2vT3MYC9VDAZqd0Q0mRnHh9TZdO258HrfCoUKiTg8oua-RMrq64rllxbZYjsWANvDAF0mUdKgSdFdzkeVvx8skb4M41QjlpAG_cD11H7Nuy0JaZld05HvKYRMj52fsfPIM45VbSh9utRIPl6RLu3_5Vcu2j9eVQtKPl5dN1k_8wUtAjRgQLRtnl82h2a9T2LRqTp8tU6jzAS94n74=w744-h990-no?authuser=0" alt="cover" />
-</div>
+ 
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
@@ -51,7 +49,7 @@
 <br>
 
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2 > My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 ![Metrics](https://metrics.lecoq.io/rahulp18?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
@@ -61,4 +59,4 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+<footer align='center'> Made With LOVE by Rahul Pradhan </footer>
