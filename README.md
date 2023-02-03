@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack website**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Full stack**
 
