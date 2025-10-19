@@ -34,7 +34,7 @@
 ## 🚧 Currently Building  
 🔥 **LLM-powered Platform**  
 📚 **School Management SaaS** built with **Next.js, NestJS, PostgreSQL, Prisma**  
-🎯 **Target Launch:** *This Dussehra* ✨  
+🎯 **Target Launch:** *This Dec* ✨  
 
 ---
 
