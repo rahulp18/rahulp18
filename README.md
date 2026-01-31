@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Backend-First Full Stack Engineer • Go • System Design • Scalable Systems
+  Full Stack Engineer • Go • System Design • Scalable Systems
 </h3>
 
 <p align="center">
@@ -30,8 +30,8 @@
 
 ## 🧠 About Me
 
-I’m a **backend-focused full stack engineer** who builds systems that scale, fail gracefully,  
-and perform under real-world pressure.
+I’m a **backend-focused full stack engineer** who builds systems that scale,  
+fail gracefully, and perform under real-world pressure.
 
 - 💻 Backend-first Full Stack Engineer  
 - ⚙️ Go (Golang) for high-performance & concurrent systems  
@@ -44,10 +44,10 @@ and perform under real-world pressure.
 
 ## 🚀 Currently Working On
 
-- 🔥 Go (Golang): APIs, services, concurrency, performance  
-- 🧩 System Design: scalability, caching, databases, architecture  
-- 📈 DSA: interview-level problem solving  
-- 🛠️ Backend-heavy real-world projects
+- 🔥 **Go (Golang)** — APIs, concurrency, performance tuning  
+- 🧩 **System Design** — scalability, caching, databases, architecture  
+- 📈 **DSA** — interview-level problem solving  
+- 🛠️ **Backend-heavy real-world projects**
 
 ---
 
@@ -80,21 +80,45 @@ and perform under real-world pressure.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Language Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulp18&show_icons=true&theme=transparent&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulp18&theme=transparent&hide_border=true" height="160" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rahulp18&show_icons=true&theme=transparent&hide_border=true" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulp18&layout=compact&theme=transparent&hide_border=true" 
+    height="160"
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rahulp18&theme=transparent&hide_border=true" 
+    height="160"
+  />
+</p>
+
+> ⚡ Language percentages are calculated automatically based on real GitHub code usage
 
 ---
 
 ## 🧠 Engineering Philosophy
 
-> **Strong engineers don’t chase frameworks.  
-> They master fundamentals and build systems.**
+> **Strong engineers don’t chase frameworks.**  
+> **They master fundamentals and build systems that last.**
+
+---
+
+## 🤝 Open To
+
+- Backend-heavy roles (Go / Node.js)
+- System design–focused teams
+- Challenging real-world problems
+- Open-source collaboration
 
 ---
 
 ⭐ If you like my work, consider starring my repositories  
-🤝 Open to backend-heavy roles & collaboration
+🚀 Always building. Always learning.
