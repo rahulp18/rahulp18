@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  Full Stack Engineer • Go • System Design • Scalable Systems
+  Full Stack Engineer • Backend Specialist (NestJS) • System Design • Scalable Systems
 </h3>
 
 <p align="center">
-  Building high-performance backends & real-world products
+  Building real-world products end-to-end with a strong backend foundation
 </p>
 
 <p align="center">
@@ -30,50 +30,56 @@
 
 ## 🧠 About Me
 
-I’m a **backend-focused full stack engineer** who builds systems that scale,  
-fail gracefully, and perform under real-world pressure.
+I’m a **backend-focused full stack engineer** who builds scalable systems
+and complete end-to-end products that work in real-world conditions.
 
-- 💻 Backend-first Full Stack Engineer  
-- ⚙️ Go (Golang) for high-performance & concurrent systems  
-- 🧠 Strong focus on System Design & DSA  
-- 🏗️ Build real products, not toy projects  
-- 🎯 Targeting FAANG-level backend roles  
-- 📬 Reach me: **pradhanrahul3346@gmail.com**
+* 💻 Full Stack Engineer (Backend-heavy)
+* ⚙️ Strong in **NestJS, APIs, and system architecture**
+* 🧠 Focused on **System Design & scalability**
+* 🏗️ Build **production-grade applications**, not tutorials
+* 🔄 Work across frontend → backend → database → integrations
+* 🎯 Targeting strong backend/system design roles
+* 📬 Reach me: **[pradhanrahul3346@gmail.com](mailto:pradhanrahul3346@gmail.com)**
 
 ---
 
 ## 🚀 Currently Working On
 
-- 🔥 **Go (Golang)** — APIs, concurrency, performance tuning  
-- 🧩 **System Design** — scalability, caching, databases, architecture  
-- 📈 **DSA** — interview-level problem solving  
-- 🛠️ **Backend-heavy real-world projects**
+* 🧩 **System Design** — scalability, caching, DB design, architecture
+* ⚙️ **Backend Engineering** — NestJS, APIs, performance optimization
+* 📈 **DSA** — improving problem-solving for interviews
+* 🛠️ **Real-world projects** — scheduling systems, integrations, automation
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 🧑‍💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=go,ts,js,java,python,c" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python,c" />
 </p>
 
 ### ⚙️ Backend & APIs
+
 <p>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,nestjs,express,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" />
 </p>
 
 ### 🎨 Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" />
 </p>
 
 ### 📱 Mobile
+
 <p>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
 </p>
 
 ### 🗄️ Databases & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,linux,postman" />
 </p>
@@ -100,25 +106,23 @@ fail gracefully, and perform under real-world pressure.
   />
 </p>
 
-> ⚡ Language percentages are calculated automatically based on real GitHub code usage
-
 ---
 
 ## 🧠 Engineering Philosophy
 
-> **Strong engineers don’t chase frameworks.**  
-> **They master fundamentals and build systems that last.**
+> Build systems that scale.
+> Keep it simple, reliable, and production-ready.
 
 ---
 
 ## 🤝 Open To
 
-- Backend-heavy roles (Go / Node.js)
-- System design–focused teams
-- Challenging real-world problems
-- Open-source collaboration
+* Backend / Full Stack roles
+* System design–focused teams
+* Real-world product engineering
+* Open-source collaboration
 
 ---
 
-⭐ If you like my work, consider starring my repositories  
+⭐ If you like my work, consider starring my repositories
 🚀 Always building. Always learning.
